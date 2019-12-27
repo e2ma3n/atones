@@ -67,6 +67,7 @@ just remove atones script
 ## How to use atones ?
 
 atones.sh [ESXi ip address]
+
 Example: atones.sh 192.168.1.1
 
 ## License
