@@ -66,9 +66,9 @@ just remove atones script
 
 ## How to use atones ?
 
-atones.sh [ESXi ip address]
+bash atones.sh [ESXi ip address]
 
-Example: atones.sh 192.168.1.1
+Example: bash atones.sh 192.168.1.1
 
 ## License
 This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.
