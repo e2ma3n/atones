@@ -4,7 +4,7 @@ Finding attack on vSphere web client and ssh in VMware ESXi
 
 The project page is located at https://github.com/e2ma3n/atones
 
-## Why we should use sshlog program ?
+## Why we should use atones program ?
 
 - Because i need to see ssh and vSphere web client attack in my esxi server
 - Because i need to monitor users login in esxi server
